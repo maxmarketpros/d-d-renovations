@@ -1,0 +1,4 @@
+# Prebuilt static site (pulled from the live Netlify deploy); no build step.
+[build]
+  publish = "."
+  command = ""
